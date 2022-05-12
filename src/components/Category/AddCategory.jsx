@@ -11,7 +11,7 @@ const AddCategory = ({ onSetCategories }) => {
   const handleSubmit = (e) => {
     e.preventDefault();
     if(inputValue.trim() !== ""){
-      onSetCategories(cats => [...cats, inputValue]);
+      onSetCategories(cats => [ inputValue, ...cats ]);
       setInputValue("");
     }
   }
