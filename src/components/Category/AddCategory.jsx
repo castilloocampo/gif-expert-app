@@ -10,13 +10,14 @@ const AddCategory = ({ onSetCategories }) => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    if(inputValue.trim() !== ""){
-      onSetCategories(cats => [ inputValue, ...cats ]);
+    if (inputValue.trim().length > 2) {
+      onSetCategories(cats => [inputValue, ...cats]);
+      // onSetCategories(871263);
       setInputValue("");
     }
   }
   return (
-    <form onSubmit={handleSubmit}>
+    <form aria-label="form" onSubmit={handleSubmit}>
       <input
         type="text"
         placeholder='Ingrese búsqueda...'

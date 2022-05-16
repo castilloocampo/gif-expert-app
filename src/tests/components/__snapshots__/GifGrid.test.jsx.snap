@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GifGrid component should show correctly 1`] = `
+<div>
+  <h3
+    class="animate__animated animate__fadeIn"
+  >
+    One Piece
+  </h3>
+  <p
+    class="animate__animated animate__flash"
+  >
+    Loading....
+  </p>
+  <div
+    class="card-grid"
+  />
+</div>
+`;

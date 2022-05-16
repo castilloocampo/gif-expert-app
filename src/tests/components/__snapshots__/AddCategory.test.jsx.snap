@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AddCategory should show correctly 1`] = `
+<div>
+  <form
+    aria-label="form"
+  >
+    <input
+      placeholder="Ingrese búsqueda..."
+      type="text"
+      value=""
+    />
+  </form>
+</div>
+`;
