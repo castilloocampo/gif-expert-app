@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GifExpertApp should show a categories list 1`] = `
+<div>
+  <h2>
+    GifExpertApp
+  </h2>
+  <form
+    aria-label="form"
+  >
+    <input
+      placeholder="Ingrese búsqueda..."
+      type="text"
+      value=""
+    />
+  </form>
+  <hr />
+  <ol>
+    <h3
+      class="animate__animated animate__fadeIn"
+    >
+      One Piece
+    </h3>
+    <p
+      class="animate__animated animate__flash"
+    >
+      Loading....
+    </p>
+    <div
+      class="card-grid"
+    />
+    <h3
+      class="animate__animated animate__fadeIn"
+    >
+      Black Clover
+    </h3>
+    <p
+      class="animate__animated animate__flash"
+    >
+      Loading....
+    </p>
+    <div
+      class="card-grid"
+    />
+    <h3
+      class="animate__animated animate__fadeIn"
+    >
+      Attack on Titan
+    </h3>
+    <p
+      class="animate__animated animate__flash"
+    >
+      Loading....
+    </p>
+    <div
+      class="card-grid"
+    />
+  </ol>
+</div>
+`;
+
+exports[`GifExpertApp should show a categories list 2`] = `<div />`;
+
+exports[`GifExpertApp should show correctly 1`] = `
+<div>
+  <h2>
+    GifExpertApp
+  </h2>
+  <form
+    aria-label="form"
+  >
+    <input
+      placeholder="Ingrese búsqueda..."
+      type="text"
+      value=""
+    />
+  </form>
+  <hr />
+  <ol />
+</div>
+`;

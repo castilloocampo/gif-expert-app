@@ -17,3 +17,157 @@ exports[`GifGrid component should show correctly 1`] = `
   />
 </div>
 `;
+
+exports[`GifGrid component should show gifs from category[0].name 1`] = `
+<div>
+  <h3
+    class="animate__animated animate__fadeIn"
+  >
+    One Piece
+  </h3>
+  <div
+    class="card-grid"
+  >
+    <div
+      class="card animate__animated animate__fadeIn"
+      data-testid="gif-grid-item"
+    >
+      <img
+        alt="one piece GIF"
+        src="https://media2.giphy.com/media/YWB6Hi29vA3jG/giphy.gif?cid=cbb1f61bpub49dzgsa1v6xr9f5axzymky8symre1xtp5m2us&rid=giphy.gif&ct=g"
+      />
+      <p
+        data-testid="title"
+      >
+        one piece GIF
+      </p>
+    </div>
+    <div
+      class="card animate__animated animate__fadeIn"
+      data-testid="gif-grid-item"
+    >
+      <img
+        alt="One Piece GIF"
+        src="https://media2.giphy.com/media/C3brYLms1bhv2/giphy.gif?cid=cbb1f61bpub49dzgsa1v6xr9f5axzymky8symre1xtp5m2us&rid=giphy.gif&ct=g"
+      />
+      <p
+        data-testid="title"
+      >
+        One Piece GIF
+      </p>
+    </div>
+    <div
+      class="card animate__animated animate__fadeIn"
+      data-testid="gif-grid-item"
+    >
+      <img
+        alt="one piece GIF"
+        src="https://media2.giphy.com/media/1rFG5pGCiUixq/giphy.gif?cid=cbb1f61bpub49dzgsa1v6xr9f5axzymky8symre1xtp5m2us&rid=giphy.gif&ct=g"
+      />
+      <p
+        data-testid="title"
+      >
+        one piece GIF
+      </p>
+    </div>
+    <div
+      class="card animate__animated animate__fadeIn"
+      data-testid="gif-grid-item"
+    >
+      <img
+        alt="one piece GIF"
+        src="https://media2.giphy.com/media/zqihZZ5Qny4q4/giphy.gif?cid=cbb1f61bpub49dzgsa1v6xr9f5axzymky8symre1xtp5m2us&rid=giphy.gif&ct=g"
+      />
+      <p
+        data-testid="title"
+      >
+        one piece GIF
+      </p>
+    </div>
+    <div
+      class="card animate__animated animate__fadeIn"
+      data-testid="gif-grid-item"
+    >
+      <img
+        alt="one piece anime addict GIF"
+        src="https://media0.giphy.com/media/tIZUToOMEFGM0/giphy.gif?cid=cbb1f61bpub49dzgsa1v6xr9f5axzymky8symre1xtp5m2us&rid=giphy.gif&ct=g"
+      />
+      <p
+        data-testid="title"
+      >
+        one piece anime addict GIF
+      </p>
+    </div>
+    <div
+      class="card animate__animated animate__fadeIn"
+      data-testid="gif-grid-item"
+    >
+      <img
+        alt="im so happy i get to make one piece GIF"
+        src="https://media4.giphy.com/media/ObHA57EFxQ3O8/giphy.gif?cid=cbb1f61bpub49dzgsa1v6xr9f5axzymky8symre1xtp5m2us&rid=giphy.gif&ct=g"
+      />
+      <p
+        data-testid="title"
+      >
+        im so happy i get to make one piece GIF
+      </p>
+    </div>
+    <div
+      class="card animate__animated animate__fadeIn"
+      data-testid="gif-grid-item"
+    >
+      <img
+        alt="one piece sabaody archipelago GIF"
+        src="https://media4.giphy.com/media/q8ld8Sk7WWyY0/giphy.gif?cid=cbb1f61bpub49dzgsa1v6xr9f5axzymky8symre1xtp5m2us&rid=giphy.gif&ct=g"
+      />
+      <p
+        data-testid="title"
+      >
+        one piece sabaody archipelago GIF
+      </p>
+    </div>
+    <div
+      class="card animate__animated animate__fadeIn"
+      data-testid="gif-grid-item"
+    >
+      <img
+        alt="One Piece Fighting GIF by TOEI Animation UK"
+        src="https://media4.giphy.com/media/f41iCuWj109WFCXaQ0/giphy.gif?cid=cbb1f61bpub49dzgsa1v6xr9f5axzymky8symre1xtp5m2us&rid=giphy.gif&ct=g"
+      />
+      <p
+        data-testid="title"
+      >
+        One Piece Fighting GIF by TOEI Animation UK
+      </p>
+    </div>
+    <div
+      class="card animate__animated animate__fadeIn"
+      data-testid="gif-grid-item"
+    >
+      <img
+        alt="One Piece Luffy Funny GIF by TOEI Animation UK"
+        src="https://media3.giphy.com/media/ghCX1B38YFXAwttIkg/giphy.gif?cid=cbb1f61bpub49dzgsa1v6xr9f5axzymky8symre1xtp5m2us&rid=giphy.gif&ct=g"
+      />
+      <p
+        data-testid="title"
+      >
+        One Piece Luffy Funny GIF by TOEI Animation UK
+      </p>
+    </div>
+    <div
+      class="card animate__animated animate__fadeIn"
+      data-testid="gif-grid-item"
+    >
+      <img
+        alt="one piece GIF"
+        src="https://media3.giphy.com/media/SEaKNxJgOfU76/giphy.gif?cid=cbb1f61bpub49dzgsa1v6xr9f5axzymky8symre1xtp5m2us&rid=giphy.gif&ct=g"
+      />
+      <p
+        data-testid="title"
+      >
+        one piece GIF
+      </p>
+    </div>
+  </div>
+</div>
+`;
